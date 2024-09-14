@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse é um aplicativo que fornece informações meteorológicas em tempo real para os usuários. Ele pode exibir dados como temperatura, condições climáticas (ensolarado, nublado, chuva), velocidade do vento e umidade. O usuário pode pesquisar o clima em diferentes cidades, recebendo previsões para os próximos dias e notificações sobre mudanças bruscas no tempo. A interface é intuitiva e simples, focada em fornecer uma experiência clara e rápida para quem deseja acessar o clima de forma prática.
